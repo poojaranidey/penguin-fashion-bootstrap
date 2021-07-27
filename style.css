@@ -1,0 +1,31 @@
+.btn-custom img{
+    width: 27px;
+    height:24px;
+}
+.model{
+    
+    width:600px;
+    height:550px;
+}
+.product-image{
+  
+    height:327px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    margin:20px;
+}
+.product-image img{
+    width: 202px;
+    height: 269px;
+    margin: 10px;
+}
+.men-jacket{
+    height:327px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    margin:20px;    
+}
+.men-jacket img{
+    width: 202px;
+height: 269px;
+}
